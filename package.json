@@ -1,0 +1,24 @@
+{
+  "name": "anandlokayurveda",
+  "private": true,
+  "homepage": "https://www.anandlokayurveda.com/",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "lint": "next lint",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "next": "12.0.7",
+    "next-seo": "^5.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "remixicon": "^2.5.0",
+    "sass": "^1.44.0"
+  },
+  "devDependencies": {
+    "eslint": "8.4.1",
+    "eslint-config-next": "12.0.7"
+  }
+}
